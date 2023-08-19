@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+img {
+    border: 3px solid rgb(56, 95, 88);
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+body {
+    background-color: #364958;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-left: 75px;
+    margin-right: 75px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+h1 {
+    background: #3D6F79;
+    padding: 20px;
+    border: 2px solid #55828B;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+    min-width: 500px;
+}
+h2 {
+    letter-spacing: 1px;
+}
+.txt {
+    background: #87BBA2;
+    padding: 10px;
+    border: 3px solid #55828B;
+    margin-bottom: 3px;
+    border-radius: 5px;
+    min-width: 500px;
+}
+.message {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #87BBA2;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    margin: auto;
+    border: 3px solid #55828B;
+    border-radius: 5px;
+    min-width: 500px;
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
+.social a {
+    color: #364958;
+    cursor: pointer;
+}
+.message input, textarea, button {
+    background: #C9E4CA;
+}
+.message button {
+    cursor: pointer;
+}
+h2, p {
+    max-width: 1000px;
+}
+.main-information {
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.5);
+}
