@@ -2,4 +2,4 @@
 
 ## Результат можете посмотреть здесь:
 
-[Созданно на языке разметки и стелях HTML & CSS](https://dukauser.github.io/resume/resume.html/)
+[Созданно на языке разметки и стилях HTML & CSS](https://dukauser.github.io/resume/resume.html/)
