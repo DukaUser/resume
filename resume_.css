@@ -71,6 +71,10 @@ h2:hover{
     padding-bottom: 5px;
     color: #fff;
 }
+.name, .mail {
+    display: inline;
+    margin-right: 30px;
+}
 .social a {
     color: #656566;
     cursor: pointer;
@@ -116,4 +120,23 @@ strong{
 .hobby li:hover{
     color: #656566;
     transition: all .7s;
+}
+li {
+    width: 200px;
+}
+.work table:nth-child(even){
+    background: #65656688;
+}
+.work th:nth-child(1){
+    background-color: #00000088;
+}
+.work th:nth-child(2){
+    background-color: #00000088;
+}
+.work th:nth-child(3){
+    background-color: #00000088;
+}
+.work th:hover,td:hover{
+    background-color: #000000d9;
+    border: none;
 }
